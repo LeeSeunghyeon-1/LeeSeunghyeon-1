@@ -27,14 +27,14 @@
 <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white"/>
 </div>
 
-### 🍀 Study & development language 🍀
+### 🍀 BE Study & development language 🍀
 
 <div style="display:flex">
 
-<div>
-<div>
+<!-- <div>
+<div> -->
 
-### ⭐ BE ⭐
+<!-- ### ⭐ BE ⭐ -->
 
 </div>
 <div>

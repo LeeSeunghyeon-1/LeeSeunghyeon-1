@@ -1,38 +1,45 @@
-# 🌼 SANDO STORY 🌼
+### 🌟 About Me  
+Hello there! 👋  
+I am a **Backend Developer**.  
+Always striving to approach every task with a positive mindset. 😇✨
 
-<h2>🐥 블로그 🐥 => <a href="https://ssddo-story.tistory.com/">Tistory</a></h2>
+---
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/devxb/gitanimals">
+#### ✏️ My Records
+<a href="https://ssddo-story.tistory.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Tistory-%23000000.svg?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory" />
+</a>
+
+<br>
+
+#### 📫 Connect
+<a href="mailto:lee.seung.hyeon.010524@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+<br>
+
+#### ⚙️ Technologies I'm Using  
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <div style="display: flex; gap: 10px;">
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
+    <img src="https://img.shields.io/badge/WebFlux-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  </div>
+  <div style="display: flex; gap: 10px; margin-top: 0;">
+    <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  </div>
+</div>
+
+<br>
+
+#### 🐻‍❄️ My Github Activity
+<a href="https://github.com/devxb/gitanimals">
         <img src="https://render.gitanimals.org/farms/{LeeSeunghyeon-1}" alt="GitAnimals"/>
       </a>
-    </td>
-    <td>
-      <a href="https://hits.seeyoufarm.com">
-        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeSeunghyeon-1&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits"/>
-      </a>
-      <br>
-      <img src="https://github-readme-stats.vercel.app/api?username=LeeSeunghyeon-1&show_icons=true&theme=highcontrast" alt="GitHub Stats"/>
-    </td>
-  </tr>
-</table>
 
-### 🔧 Tools 🔧
-
-<div>
-  <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white" alt="Visual Studio Code"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white" alt="IntelliJ IDEA"/>
-</div>
-
-### 🍀 BE Study & development language 🍀
-
-<div>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white" alt="PostgreSQL"/>
-</div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=110&section=footer)
